@@ -10,3 +10,7 @@
 <img src="https://github.com/bidanee/js_basic_game/assets/110444526/76c5713e-e8c5-48e8-8344-e90ca6e0769a" width="400px" height="400px">
 <img src="https://github.com/bidanee/js_basic_game/assets/110444526/0169f893-41a1-40ab-9234-af0b80215cfb" width="400px" height="400px">
 </div>
+
+<div>배포 사이트
+<a src="https://main--dancing-granita-a9bbdf.netlify.app/arrow_speed.html"/>
+</div>
